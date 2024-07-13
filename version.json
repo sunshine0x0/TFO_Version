@@ -1,6 +1,8 @@
 {
   "launcher": "Beta",
   "version": "Beta 1",
+  "updater": "",
+  "launcherdownload": "",
   "download": "https://www.dropbox.com/scl/fi/04ny27zq657en5tql768x/Game.zip?rlkey=dqj0myrn5298nywft6pr41ad3&st=26e9qjyr&dl=1",
   "photo": "https://www.dropbox.com/scl/fi/2dwbdonfqd0pkcgscegxv/Launcher.png?rlkey=9ja8v5iweklpraczm1zjol67y&st=6dv6950v&dl=1"
 }
